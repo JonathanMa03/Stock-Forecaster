@@ -1,0 +1,7 @@
+pandas 
+numpy
+pn.extension('plotly')
+neuralforecast 
+yfinance
+plotly
+panel

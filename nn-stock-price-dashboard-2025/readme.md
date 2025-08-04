@@ -11,7 +11,7 @@ A neural‑network–powered stock price forecasting dashboard built in Python, 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 nn-stock-price-dashboard-2025/
@@ -27,7 +27,7 @@ nn-stock-price-dashboard-2025/
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - **Neural Network Forecasting** — Modular architecture supports experimentation with layers, sequence length, and other hyperparameters.
 - **Interactive Dashboard** — Visualizes historical vs. predicted prices with user input options.
@@ -35,7 +35,7 @@ nn-stock-price-dashboard-2025/
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 | Python Package               | Purpose                       |
 | ---------------------------- | ----------------------------- |
@@ -49,7 +49,7 @@ nn-stock-price-dashboard-2025/
 
 ---
 
-## 📂 Included Artifacts
+## Included Artifacts
 
 - Output charts in `Sample Outputs/`
 - Notebook demo in `report.ipynb`
